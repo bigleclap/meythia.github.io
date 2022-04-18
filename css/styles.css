@@ -138,12 +138,12 @@ hr {
 }
 
 .btn {
-  background: #c0c765;
-  background-image: -webkit-linear-gradient(top, #c0c765, #686b41);
-  background-image: -moz-linear-gradient(top, #c0c765, #686b41);
-  background-image: -ms-linear-gradient(top, #c0c765, #686b41);
-  background-image: -o-linear-gradient(top, #c0c765, #686b41);
-  background-image: linear-gradient(to bottom, #c0c765, #686b41);
+  background: #E6A89D;
+  background-image: -webkit-linear-gradient(top, #E6A89D, #90BEA0);
+  background-image: -moz-linear-gradient(top, #E6A89D, #90BEA0);
+  background-image: -ms-linear-gradient(top, #E6A89D, #90BEA0);
+  background-image: -o-linear-gradient(top, #E6A89D, #90BEA0);
+  background-image: linear-gradient(to bottom, #E6A89D, #90BEA0);
   -webkit-border-radius: 15;
   -moz-border-radius: 15;
   border-radius: 15px;
