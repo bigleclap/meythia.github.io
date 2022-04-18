@@ -9,7 +9,7 @@ h1 {
   color: #464E2E;
   font-size: 5.625rem;
   margin-top: 50px;
-  font-family: 'Josefin Sans', cursive;
+  font-family: 'Josefin-Sans', cursive;
 }
 
 h2 {
@@ -57,12 +57,12 @@ hr {
 .top-cloud {
   position: absolute;
   right: 100px;
-  top: 50px;
+  top: 10px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 100px;
+  left: 80px;
   top: 90px;
 }
 
